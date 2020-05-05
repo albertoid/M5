@@ -3,7 +3,7 @@ Kaggle Competitions
 
 This Kaggle competition tryed to find the most acurate prediction to the sells of the products in Walmart with the data of 6 years
 
-[Link to the competition] https://www.kaggle.com/c/m5-forecasting-accuracy/overview
+[Link to the competition](https://www.kaggle.com/c/m5-forecasting-accuracy/overview)
 
 
 ## Current results
